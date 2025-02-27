@@ -16,3 +16,4 @@ IQ=30
 Healtf=100
 >>>>>>> branch2
 Menu=3
+Fish=1
