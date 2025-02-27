@@ -17,3 +17,4 @@ Healtf=100
 >>>>>>> branch2
 Menu=3
 Fish=1
+Cat=3
